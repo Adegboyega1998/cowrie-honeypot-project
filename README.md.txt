@@ -12,7 +12,7 @@ This project simulates an SSH server using the Cowrie honeypot to observe, log, 
 
 ## Objective
 
-Deploy Cowrie, simulate SSH attacks from Kali, and analyze the logs to understand attack patterns and behaviors.
+To deploy Cowrie, simulate SSH attacks from Kali, and analyze the logs to understand attack patterns and behaviors.
 
 ## Setup Overview
 
